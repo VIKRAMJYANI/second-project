@@ -163,12 +163,15 @@
             <div class="container">
                 <div class="footer-help divide">
                     <div class="row">
-                        <h1>We are here to help</h1>
-                        <h4>Would you like to learn what's happening in Cloud?</h4>
-                        <h4>Do you need help in migrating your applications to Linux?</h4>
-                        <h4>Would you like to increase the ranking of your website?</h4>
-                        <h4>Do you have any questions?</h4>
-                        <h4>Or any feedback?</h4>
+                        <h1>master</h1>
+                        <h1>master</h1>
+                        <h1>master</h1>
+                        <h1>master</h1>
+                        <h1>master</h1>
+                        <h1>master</h1>
+                        <h1>master</h1>
+                        <h1>master</h1>
+                        <h4></h4>
 
                         <div class="divide">
                             <a href="mailto:info@javlin.co.in" class="btn btn-lg btn-simple">Get in touch</a>
