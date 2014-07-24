@@ -1,0 +1,204 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="author" content="Packetbeat">
+        
+    <meta name="description" content="Packetbeat is an Open Source Application Monitoring and Packet Tracing (Packet Sniffer) system. It works by sniffing the traffic and analyzing network protocols like HTTP, MySQL and REDIS.">
+    <title>Packetbeat - Application Monitoring - Open Source</title>
+
+
+
+        <!-- Bootstrap -->
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+
+        <!-- Font awesome -->
+        <link href="css/font-awesome.css" rel="stylesheet">
+
+        <!-- fonts -->
+        <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,200,100,500,600,700' rel='stylesheet' type='text/css'>
+
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+        <!-- Custom css -->
+        
+            <link href="css/custom.css" rel="stylesheet">
+        
+
+        <!-- Fonts -->
+        <link href='http://fonts.googleapis.com/css?family=Comfortaa' rel='stylesheet' type='text/css'>
+
+        <!-- Icon -->
+        <link rel="shortcut icon" href="/static/img/favicon.ico" type="image/x-icon">
+
+         
+
+        <!-- Track page with Google Analytics -->
+        <script>
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+          ga('create', 'UA-44061420-1', 'packetbeat.com');
+          ga('send', 'pageview');
+
+        </script>
+
+    </head>
+    <body>
+
+        <!-- Navbar -->
+        <div class="navbar navbar-fixed-top navbar-inverse" role="navigation">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+
+                    <a class="navbar-brand" href="/">
+                        <img alt="Packetbeat" src="images/logo1.png" height=125>
+                    </a>
+					<p style="color:#D8DCDD; padding-top: 7px; font-size: 23px;
+    padding-left: 113px;
+    width: 335px;">Javlin Informatics</p>
+                </div> <!-- end .navbar-header -->
+                <div class="navbar-collapse collapse pull-right">
+                    <ul class="nav navbar-nav">
+                        <li class="menu">
+                            <a href="https://www.youtube.com/watch?v=9utfeoZV2Lk" target="_blank">About Us</a>
+                        </li>
+                        <li class="menu">
+                            <a href="https://github.com/JavlinInformatics/sysadmin/wiki" target="_blank">Blog</a>
+                        </li>
+                        <li class="menu">
+                            <a href="http://www.fb.com/JavlinInformatics"  target="_blank">Facebook</a>
+                        </li>
+                        <li class="menu">
+                            <a href="https://github.com/JavlinInformatics" target="_blank">GitHub</a>
+                        </li>
+                    </ul>
+                </div> <!-- end .navbar-collapse -->
+            </div> <!-- end .container -->
+        </div> <!-- end .navbar -->
+
+        
+    <div class="main-wrapper">
+        <div class="container">
+            <div class="row">
+                <h1>We make people Cloud ready!</h1>
+            </div>
+            <div class="row screenshot">
+                <div class="col-lg-10 col-lg-offset-1">
+                    <img class="img-responsive" src="images/troubleshooting.png" alt="Packebeat all in one">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="section features divide">
+    <div class="row center">
+        <div class="col-lg-4 col-lg-offset-4">
+            <h1>Do you have it in you?</h1>
+        </div>
+    </div>
+    <div class="row divide">
+        <div class="col-lg-10 col-lg-offset-1">
+            <div class="panel-group" id="accordion">
+
+                <div class="panel">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+                               Why should I learn Linux?
+                            </a>
+                        </h4>
+                    </div>
+                    <div id="collapseOne" class="panel-collapse collapse in">
+                        <div class="panel-body">
+                            <div class="col-lg-6">
+                            <p>
+                                <ul>
+							<li>It was used in The Matrix</li>
+							<li>It's the last "real" community frontier</li>
+							<li>It will increase your geek kung fu</li>
+							<li>It's the most popular server OS on the internet and still growing</li>
+							<li>It's as customizable as much or as little as you want</li>
+							<li>SpaceX hires Linux administrators</li>
+							</ul>
+                            </p>
+							<br/>
+							<p style="color:#428BCA; font-size:19px;">Jokes apart, there's a dire need of good Linux ninjas in the IT companies. Get Cloud ready and win the world.</P>
+                            </div>
+                            <div class="col-lg-6">
+                                <img src="images/servers.png" class="img-responsive" alt="Servers">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                
+            </div> <!-- end panel-group -->
+        </div> <!-- end col-lg-10 -->
+    </div> <!-- end row -->
+</div> <!-- end section -->
+
+    
+     
+
+
+
+        <div class="footerwrap center">
+            <div class="container">
+                <div class="footer-help divide">
+                    <div class="row">
+                        <h1>We are here to help</h1>
+                        <h4>Would you like to learn what's happening in Cloud?</h4>
+                        <h4>Do you need help in migrating your applications to Linux?</h4>
+                        <h4>Would you like to increase the ranking of your website?</h4>
+                        <h4>Do you have any questions?</h4>
+                        <h4>Or any feedback?</h4>
+
+                        <div class="divide">
+                            <a href="mailto:info@javlin.co.in" class="btn btn-lg btn-simple">Get in touch</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="footer-nav">
+                    <div class="row company">
+                         2014 Javlin Informatics
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+        <!-- Include all compiled plugins (below), or include individual files as needed -->
+        <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+
+        
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $(".carousel").carousel({
+                pause: true,
+                interval: false
+            })
+        });
+    </script>
+
+
+    </body>
+</html>
